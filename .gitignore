@@ -1,0 +1,28 @@
+# Node
+node_modules/
+
+# Python
+.venv/
+__pycache__/
+
+# Environment Variables
+.env
+.env.local
+
+# Database
+*.db
+
+# Uploads
+uploads/
+
+# Datasets
+datasets/
+
+# Sample files
+sample.txt
+
+# Mac
+.DS_Store
+
+# Logs
+npm-debug.log*
